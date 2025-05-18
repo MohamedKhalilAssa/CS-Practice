@@ -4,3 +4,5 @@ tempCodeRunnerFile.cpp
 *.cbp
 *.depend
 *.layout
+bin
+obj

@@ -170,7 +170,6 @@ void hash1::SupprimerItem(string name)
     }
     else
     {
-        // it looks for the node before name
         while (ptr->next != NULL && ptr->nom != name)
         {
             prec = ptr;
